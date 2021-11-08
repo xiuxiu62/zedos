@@ -1,0 +1,8 @@
+[package]
+name = "zedos"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+bootloader = "0.10.9"
+libc = "0.2.106"
